@@ -53,3 +53,11 @@
 - Manajemen Data: Kemampuan untuk mengelola semua data pengguna dan transaksi dengan efisien.
 - Laporan Analitik: Dapat menghasilkan laporan untuk analisis kinerja aplikasi.
 
+| Aspek     | Kebutuhan Pengguna | Kebutuhan Adimistraktor    |
+|-----------|--------------------|----------|
+| Fungsional| Registrasi dan login pengguna, Melihat laporan riwayat transaksi, Pencatatan pemasukan dan pengeluaran, Melihat laporan riwayat transaksi dan Pengingat untuk setoran rutin. | Manajemen akun siswa (tambah, edit, hapus), Monitoring semua transaksi siswa, Mengakses laporan aktivitas pengguna, Mengakses laporan aktivitas pengguna. |
+|    Antarmuka Penggunaan    | Desain yang intuitif dan mudah digunakan, Navigasi yang mudah antar fitur dan Responsif di berbagai perangkat (mobile dan desktop). | Antarmuka admin yang jelas dan mudah dinavigasi. |
+| Keamanan  | Sistem autentikasi aman (password dan OTP) dan Perlindungan data transaksi. | Enkripsi data pengguna, Backup data secara berkala dan Monitoring untuk transaksi mencurigakan. |
+| Keamanan | Proteksi data pribadi pengguna, enkripsi pada saat transaksi, autentikasi pengguna | Backup data secara berkala, kontrol akses untuk admin dan pengguna, sistem logging untuk melacak aktivitas |
+| Laporan dan statik | Akses laporan visual tentang pertumbuhan tabungan dan Fitur filter untuk mencari transaksi. |  Menghasilkan laporan statistik penggunaan aplikasi, Fitur filter untuk mencari transaksi, Analisis kebiasaan menabung siswa. |
+
