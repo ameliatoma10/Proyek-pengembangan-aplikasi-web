@@ -31,5 +31,6 @@
 - Penugasan untuk melakukan kegiatan nyata, seperti menyusun anggaran atau melakukan simulasi investasi.
 ### 10. Akses Multi-Pengguna
 - Fitur untuk memungkinkan orang tua dan guru mengakses laporan kemajuan siswa dan memberikan dukungan tambahan.
-
+## Kesimpulan 
+Dengan fitur-fitur ini, aplikasi "Solusi Efektif untuk Pembelajaran Keuangan" diharapkan dapat menjadi alat yang bermanfaat bagi siswa untuk memahami dan mengelola keuangan mereka dengan baik, sambil mengembangkan keterampilan yang akan berguna di masa depan.
 
