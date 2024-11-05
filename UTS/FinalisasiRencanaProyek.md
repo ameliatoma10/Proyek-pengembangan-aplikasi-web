@@ -36,13 +36,19 @@ Fitur yang ditujukan untuk admin berfokus pada pengelolaan aplikasi, data, dan p
 
   ## Kesimpulan
   Fitur-fitur dalam aplikasi manajemen keuangan siswa berbasis web sangat bervariasi dan tergantung pada kebutuhan pengguna. Namun, secara umum, fitur-fitur tersebut dapat dibagi menjadi dua kategori utama, yaitu fitur untuk siswa dan fitur untuk admin. Dengan memahami perbedaan antara kedua kategori ini, Anda dapat merancang aplikasi web yang lebih baik dan memenuhi kebutuhan siswa serta admin dalam pengelolaan keuangan.
-  
+
 3. Rencana jumlah tabel
    - Rencana jumlah ada tujuh tabel yakni tabel pengguna, transaksi, kategori, notifikasi, laporan, log aktivitas, dan pengaturan dengan efisien.
 
-4.Rencana Kegiatan(dalam menyelesaikan proyek)
+4. Rencana Kegiatan(dalam menyelesaikan proyek)
 - Kegiatan ke-8, Persiapan dan Perencanaan
 - Kegiatan ke-9, Desaian sistem
 - Kegiatan ke-10, Pengembangan Frontend dan Backend
 - Kegiatan ke-11, Pengujian dan Penyempurnaan
 - Kegiatan ke-12, Implementasi dan Peluncuran
+
+5. Upaya serius
+   - Komitmen: Komitmen dalam mengerjakan proyek tepat waktu
+   - Kerjasama tim: dengan adanya kerjasama tim yang baik maka proyek akan dikerjakan dengan lancar
+   - Melakukan diskusi: kelompok mendiskusikan proyek yang akan dikerjakan
+   - Pembagian tugas: Dengan pembagian tugas maka proyek akan dikerjakan dengan cepat dan tepat waktu.
