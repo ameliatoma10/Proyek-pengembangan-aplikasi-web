@@ -25,5 +25,9 @@ Fitur yang ditujukan untuk admin berfokus pada pengelolaan aplikasi, data, dan p
 - Laporan: Menyediakan laporan data yang berguna untuk analisis dan pengambilan keputusan, seperti laporan pengguna aktif dan tren pengeluaran.
 - Pengaturan Sistem: Memungkinkan admin untuk mengkonfigurasi pengaturan umum aplikasi, seperti tampilan, bahasa, dan integrasi dengan sistem lain.
 - Log Aktivitas: Mencatat semua aktivitas yang terjadi di dalam aplikasi, seperti login siswa, perubahan data, dan transaksi yang dilakukan.
-- Pentingnya Membedakan Fitur User dan Admin
 
+## Membedakan fitur-fitur ini sangat penting karena:
+
+- Pengalaman Pengguna: Fitur-fitur yang ditujukan untuk siswa harus dirancang sedemikian rupa sehingga mudah digunakan dan memberikan pengalaman yang menyenangkan.
+- Efisiensi Pengelolaan: Fitur-fitur yang ditujukan untuk admin harus membantu admin dalam mengelola aplikasi dengan lebih efisien.
+- Keamanan: Fitur-fitur admin harus memiliki tingkat keamanan yang tinggi untuk melindungi data aplikasi dan informasi pengguna.
