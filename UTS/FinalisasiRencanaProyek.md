@@ -40,3 +40,9 @@ Fitur yang ditujukan untuk admin berfokus pada pengelolaan aplikasi, data, dan p
 3. Rencana jumlah tabel
    - Rencana jumlah ada tujuh tabel yakni tabel pengguna, transaksi, kategori, notifikasi, laporan, log aktivitas, dan pengaturan dengan efisien.
 
+4.Rencana Kegiatan(dalam menyelesaikan proyek)
+- Kegiatan ke-8, Persiapan dan Perencanaan
+- Kegiatan ke-9, Desaian sistem
+- Kegiatan ke-10, Pengembangan Frontend dan Backend
+- Kegiatan ke-11, Pengujian dan Penyempurnaan
+- Kegiatan ke-12, Implementasi dan Peluncuran
