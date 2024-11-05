@@ -1,7 +1,7 @@
-# Aplikasi Manajemen Keuangan Siswa Berbasis Web
+# 1. Aplikasi Manajemen Keuangan Siswa Berbasis Web
 Aplikasi manajemen keuangan siswa berbasis web dirancang untuk membantu siswa dalam mengelola keuangan mereka dengan cara yang mudah dan efisien. Fitur-fitur yang ada dalam aplikasi ini terbagi menjadi dua kategori, yaitu fitur untuk pengguna (siswa) dan fitur untuk admin.
 
-## Fitur Aplikasi Web dari Sisi User (Siswa)
+## 2. Fitur Aplikasi Web dari Sisi User (Siswa)
 Fitur yang ditujukan untuk siswa berfokus pada kemudahan penggunaan, aksesibilitas informasi, dan pengalaman pengguna yang menyenangkan. Beberapa contoh fitur umum dari sisi siswa adalah:
 
 - Halaman Beranda (Homepage): Tampilan awal aplikasi yang memberikan gambaran umum tentang aplikasi dan fitur-fitur utamanya, termasuk ringkasan saldo dan transaksi terbaru.
