@@ -31,3 +31,6 @@ Fitur yang ditujukan untuk admin berfokus pada pengelolaan aplikasi, data, dan p
 - Pengalaman Pengguna: Fitur-fitur yang ditujukan untuk siswa harus dirancang sedemikian rupa sehingga mudah digunakan dan memberikan pengalaman yang menyenangkan.
 - Efisiensi Pengelolaan: Fitur-fitur yang ditujukan untuk admin harus membantu admin dalam mengelola aplikasi dengan lebih efisien.
 - Keamanan: Fitur-fitur admin harus memiliki tingkat keamanan yang tinggi untuk melindungi data aplikasi dan informasi pengguna.
+
+  ## Kesimpulan
+  Fitur-fitur dalam aplikasi manajemen keuangan siswa berbasis web sangat bervariasi dan tergantung pada kebutuhan pengguna. Namun, secara umum, fitur-fitur tersebut dapat dibagi menjadi dua kategori utama, yaitu fitur untuk siswa dan fitur untuk admin. Dengan memahami perbedaan antara kedua kategori ini, Anda dapat merancang aplikasi web yang lebih baik dan memenuhi kebutuhan siswa serta admin dalam pengelolaan keuangan.
