@@ -38,5 +38,5 @@ Fitur yang ditujukan untuk admin berfokus pada pengelolaan aplikasi, data, dan p
   Fitur-fitur dalam aplikasi manajemen keuangan siswa berbasis web sangat bervariasi dan tergantung pada kebutuhan pengguna. Namun, secara umum, fitur-fitur tersebut dapat dibagi menjadi dua kategori utama, yaitu fitur untuk siswa dan fitur untuk admin. Dengan memahami perbedaan antara kedua kategori ini, Anda dapat merancang aplikasi web yang lebih baik dan memenuhi kebutuhan siswa serta admin dalam pengelolaan keuangan.
   
 3. Rencana jumlah tabel
-   Rencana jumlah ada tujuh tabel yakni tabel pengguna, transaksi, kategori, notifikasi, laporan, log aktivitas, dan pengaturan dengan efisien.
+   - Rencana jumlah ada tujuh tabel yakni tabel pengguna, transaksi, kategori, notifikasi, laporan, log aktivitas, dan pengaturan dengan efisien.
 
